@@ -1,10 +1,9 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=220&section=header&text=Sudhirkumar%20Kuchara&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20%26%20Blockchain%20Developer%20%7C%20MERN%20Stack%20%7C%20Web3%20dApps&descSize=16&descAlignY=55&descColor=a78bfa" width="100%"/>
+# Hi, I'm Sudhir 👋
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+real+systems%2C+not+just+prototypes;Hackathon-tested+%7C+Production-ready;Blockchain+%2B+Full-Stack+%2B+AI+Integrations;1st+Place+%40+IBM+SkillsBuild+AI+Challenge+2026" alt="Typing SVG" /></a>
+**Web & Blockchain Developer** · MERN Stack · Web3 dApps · Hackathon-Tested Projects  
+Building real systems, not just prototypes — **1st Place @ IBM SkillsBuild AI Challenge 2026**
 
 <br/>
 
