@@ -17,6 +17,62 @@
 
 ---
 
+## � Technologies & Tools
+
+<div align="center">
+
+#### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=pytorch&logoColor=white)
+
+#### 🌐 Website Development
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+#### 🔗 Blockchain & Web3
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+![Web3Auth](https://img.shields.io/badge/Web3Auth-1A73E8?style=flat-square&logo=webauthn&logoColor=white)
+
+#### 📱 App Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+#### ⚙️ Other Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+---
+
 ## 🧑‍💻 About Me
 
 ```yaml
@@ -27,7 +83,7 @@ focus: Blockchain-centric Full-Stack Development
 motto: "I care far more about building things that actually work than just understanding them in theory."
 ```
 
-I build **web and blockchain applications** using the **MERN stack and Web3** — shaped through hands-on projects and **national-level hackathons** where tight deadlines demand clean architecture, real trade-offs, and working software
+I build **web and blockchain applications** using the **MERN stack and Web3** — shaped through hands-on projects and **national-level hackathons** where tight deadlines demand clean architecture, real trade-offs, and working software.
 
 - 🏆 **1st Place** — IBM SkillsBuild AI Innovation Challenge 2026
 - 🚀 **Google Autonomous Hacks '26** Participant (Silver Oak University)
@@ -37,123 +93,102 @@ I build **web and blockchain applications** using the **MERN stack and Web3** �
 
 ---
 
-## 🛠️ Tech Stack
+## 🏅 Hackathons & Competitions
 
-<div align="center">
+<!-- ────────────────────────────────────────────── -->
+### 🥇 IBM SkillsBuild AI Innovation Challenge 2026
+**CSRBOX® / i-Hub Gujarat** · Ahmedabad · *Feb 2026*
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+> **1st Place** among 35+ shortlisted teams 🏆
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+Built **ViolenceSense** — a production-ready, full-stack AI system on a GPU-trained **MobileNetV2-LSTM** model optimized for real-time CPU deployment, enabling scalable violence detection with **95%+ accuracy** and confidence scoring.
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=round-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=round-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN_Stack-47A248?style=round-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MobileNetV2-FF6F00?style=round-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/LSTM-013243?style=round-square&logo=numpy&logoColor=white" />
+</p>
 
-### Blockchain & Web3
-![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-
-### Mobile & Tools
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
+🔗 [**GitHub Repo**](https://github.com/Sudhirkumar6009/SafeSight)
 
 ---
 
-## 🏆 Featured Projects
+### 🚀 Google Autonomous Hacks '26
+**GDG Gandhinagar / Silver Oak University** · Ahmedabad · *Jan 2026*
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
+> Shortlisted after online round · Built during 26-hour on-site hackathon
 
-### 🛡️ [ViolenceSense](https://github.com/Sudhirkumar6009/SafeSight)
-**🥇 1st Place — IBM SkillsBuild AI Innovation Challenge 2026**
+Built **MindMapAI** — an AI-powered mind map & diagram generator that converts text, documents, and GitHub repositories into structured visual diagrams by coordinating **5+ AI agents** using **Gemini**.
 
-Production-ready AI system built on a GPU-trained **MobileNetV2-LSTM** model, optimized for real-time CPU deployment — enabling scalable violence detection with **95%+ accuracy** and confidence scoring.
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=round-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=round-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=round-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--Agent_System-6C63FF?style=round-square&logo=robot&logoColor=white" />
+</p>
 
-`Python` `Deep Learning` `MERN Stack` `MobileNetV2` `LSTM`
-
-</td>
-<td width="50%">
-
-### 📦 [StorageX](https://github.com/Sudhirkumar6009/StorageX)
-**Decentralized File Storage Platform**
-
-Built with **IPFS** and blockchain-based authentication using **React, TypeScript, and Web3Auth** — giving users full control over their data with decentralized storage architecture.
-
-`React` `TypeScript` `IPFS` `Web3Auth` `Blockchain`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧠 [MindMapAI](https://github.com/Sudhirkumar6009/MindMapAI)
-**Text-to-Diagram Knowledge Mapping Tool**
-
-AI-powered mind map and diagram generator that converts **text and GitHub repositories** into structured visual representations. Coordinated **5+ AI agents** using Gemini.
-
-`Next.js` `Gemini AI` `Multi-Agent` `TypeScript`
-
-</td>
-<td width="50%">
-
-### 📚 [LibraXpert](https://github.com/Sudhirkumar6009)
-**Cross-Platform Library Management System**
-
-Advanced library management solution designed for educational institutions, streamlining the entire library workflow with a modern full-stack architecture.
-
-`MERN Stack` `React.js` `REST API` `MongoDB`
-
-</td>
-</tr>
-</table>
-</div>
+� [**GitHub Repo**](https://github.com/Sudhirkumar6009/MindMapAI) · 🌐 [**Live Demo**](https://mind-map-ai-one.vercel.app)
 
 ---
 
-## 🏅 Hackathon & Competition Track Record
+### 💼 Odoo Hackathon
+**Odoo** · Gandhinagar · *Aug 2025*
 
-| Event | Organization | Achievement |
-|:------|:------------|:------------|
-| 🥇 **IBM SkillsBuild AI Innovation Challenge 2026** | CSRBOX® / i-Hub Gujarat | **1st Place** among 35+ teams |
-| 🚀 **Google Autonomous Hacks '26** | GDG Gandhinagar / Silver Oak University | Shortlisted & built MindMapAI |
-| 💼 **Odoo Hackathon** | Odoo | Shortlisted for on-site round |
-| 🔧 **Tic Tech Toe '25** | Dhirubhai Ambani University | Built PackPal (courier platform) |
-| 🏛️ **SSIP Hackathon** | SSIP Gujarat | Blockchain land registry prototype |
+> Shortlisted for on-site round after online qualification
+
+**Online Round** — Built **StackIt**, a Q&A forum platform within 8 hours.  
+**On-site Round** — Developed **Globetrotter**, a trip planning & management system focusing on backend logic, database design, and rapid feature delivery.
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=round-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=round-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=round-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=round-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=round-square&logo=fastapi&logoColor=white" />
+</p>
+
+� [**StackIt Repo**](https://github.com/Sudhirkumar6009) · 🔗 [**Globetrotter Repo**](https://github.com/Sudhirkumar6009)
 
 ---
 
-## 📊 GitHub Stats
+### 🔧 Tic Tech Toe '25
+**Dhirubhai Ambani University** · Gandhinagar · *Apr 2025*
 
-<div align="center">
+> 3-day hackathon — End-to-end product delivery
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sudhirkumar6009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&ring_color=6c63ff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhirkumar6009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9" />
+Developed **PackPal**, a web platform to simplify courier service discovery and tracking. Handled frontend & backend development using the MERN stack with a team.
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=round-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=round-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=round-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=round-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=round-square&logo=tailwindcss&logoColor=white" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhirkumar6009&theme=tokyonight&hide_border=true&background=0d1117&stroke=6c63ff&ring=6c63ff&fire=a78bfa&currStreakLabel=6c63ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="49%" />
+🔗 [**GitHub Repo**](https://github.com/Sudhirkumar6009)
 
-</div>
+---
+
+### 🏛️ SSIP Hackathon
+**SSIP Gujarat** · Ahmedabad · *Nov 2023*
+
+> 24-hour hackathon under government-based evaluation
+
+Built a **Blockchain-based Land Registry System** aimed at improving transparency and preventing record tampering. Worked on full-stack architecture, backend APIs, and data integrity logic.
+
+<p>
+  <img src="https://img.shields.io/badge/Blockchain-3C3C3D?style=round-square&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=round-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=round-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=round-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=round-square&logo=fastapi&logoColor=white" />
+</p>
+
+🔗 [**GitHub Repo**](https://github.com/Sudhirkumar6009)
 
 ---
 
