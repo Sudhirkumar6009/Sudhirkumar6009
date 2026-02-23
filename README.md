@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi, I'm Sudhir 👋 A Student
+# Hi, I'm Sudhir. A Full-stack AI and Web 3.0 Developer
   
 </div>
 
