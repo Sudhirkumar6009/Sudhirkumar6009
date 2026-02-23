@@ -1,46 +1,14 @@
 <div align="center">
 
-# Hi, I'm Sudhir 👋
+# Hi, I'm Sudhir 👋 A Student
 
 </div>
-
-**Web & Blockchain Developer** · MERN Stack · Web3 dApps · Hackathon-Tested Projects  
-Building real systems, not just prototypes — **1st Place @ IBM SkillsBuild AI Challenge 2026**
-
-<br/>
-
-## Social
-
-<!-- Profile Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhirkumar-kuchara)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sudhirkumar6009)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
-
 
 ---
 
 ## 🔧 Technologies & Tools
 
-<div align="center">
-
-#### 🤖 AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
-
-#### 🌐 Website Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,js&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=tailwind,html,css,mongodb,postgres,mysql,firebase,php&theme=dark" />
-
-#### 🔗 Blockchain & Web3
-<img src="https://skillicons.dev/icons?i=solidity&theme=dark" />
-
-#### 📱 App Development
-<img src="https://skillicons.dev/icons?i=flutter,dart,react&theme=dark" />
-
-#### ⚙️ Other Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,linux,npm&theme=dark" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,nextjs,nodejs,express,ts,js,tailwind,html,css,mongodb,postgres,mysql,firebase,php,solidity,flutter,dart,react,git,github,vscode,postman,vercel,linux,npm&theme=dark" />
 
 ---
 
