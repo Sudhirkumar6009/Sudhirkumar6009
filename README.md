@@ -18,6 +18,7 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" height="48" alt="Bootstrap" /></a>&nbsp;
   <a href="#"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind CSS" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=angular&theme=dark" width="48" height="48" alt="Python" /></a>&nbsp;
   <a href="#"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express" /></a>&nbsp;
   <a href="#"><img src="https://skillicons.dev/icons?i=npm&theme=dark" width="48" height="48" alt="npm" /></a>&nbsp;
   <a href="#"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB" /></a>&nbsp;
