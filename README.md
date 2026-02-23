@@ -2,17 +2,20 @@
 
 # Hi, I'm Sudhir 👋
 
+</div>
+
 **Web & Blockchain Developer** · MERN Stack · Web3 dApps · Hackathon-Tested Projects  
 Building real systems, not just prototypes — **1st Place @ IBM SkillsBuild AI Challenge 2026**
 
 <br/>
+
+## Social
 
 <!-- Profile Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhirkumar-kuchara)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sudhirkumar6009)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
 
-</div>
 
 ---
 
