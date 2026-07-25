@@ -1,45 +1,9 @@
+<div align="center"> 
+  
+# Hi, I'm Sudhir. A Full-stack AI and Web 3.0 Developer 
 
-<div align="center">
-
-## 🛠️ Tech Stack
-
-</div>
-
-<div align="center">
-
-**Languages & Core**
-
-<img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap&theme=dark" />
-
-**Backend & APIs**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,npm&theme=dark" />
-
-**AI / ML**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,py&theme=dark" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark" />
-
-**Web3 & Blockchain**
-
-<img src="https://skillicons.dev/icons?i=solidity,ipfs&theme=dark" />
-
-**Mobile**
-
-<img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" />
-
-**Tools & DevOps**
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,gcp,gradle,vercel,postman&theme=dark" />
-
-</div>
+</div> 
+<p align="center" style="><a href="#"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" hspace="4" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=vue&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=angular&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=npm&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=solidity&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=ipfs&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=gradle&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" hspace="4"/></a><a href="#"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" hspace="4"/></a><a href="#"></a></p>
 
 <br/>
 
