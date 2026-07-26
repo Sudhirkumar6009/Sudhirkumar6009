@@ -43,6 +43,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-<sub>⭐ If you like what you see, consider starring some of my repos!</sub>
-
 </div>
