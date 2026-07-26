@@ -9,7 +9,7 @@
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhirkumar6009&theme=dark&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhirkumar6009&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9" width="35%"/>
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-## 🤝 Let's Connect
+## Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sudhirkumar-kuchara.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhirkumar-kuchara)
