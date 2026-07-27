@@ -17,7 +17,7 @@
 
 # GitHub Analytics
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhirkumar6009&theme=dark&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Sudhirkumar6009&theme=dark&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%"/>
 
 </div>
 
